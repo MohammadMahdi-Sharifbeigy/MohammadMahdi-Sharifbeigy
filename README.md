@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MohammadMahdi-Sharifbeigy
+- 👀 I’m interested in data analyst & Neurosience & image processing
+- 🌱 I’m currently learning c++ & css
+- 📫 How to reach me sharifbeigymohammad@gmail.com
