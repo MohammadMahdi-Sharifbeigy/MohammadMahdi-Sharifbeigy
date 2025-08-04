@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmahdi-sharifbeigy&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmahdi-sharifbeigy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadmahdi-sharifbeigy" alt="mohammadmahdi-sharifbeigy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadmahdi-sharifbeigy&theme=onedark" alt="mohammadmahdi-sharifbeigy" /></a> </p>
 
 - 🌱 I’m currently learning **Neuro-Electrophysiology**
 
