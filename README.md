@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm MohammadMahdi-Sharifbeigy</h1>
-<h3 align="center">Neuro Sientist</h3>
+<h3 align="center">Neuroscientist | ML Researcher | Signal Processing Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmahdi-sharifbeigy&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmahdi-sharifbeigy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadmahdi-sharifbeigy&theme=onedark" alt="mohammadmahdi-sharifbeigy" /></a> </p>
 
-- 🌱 I’m currently learning **Neuro-Electrophysiology**
+## About Me
+- 🧠 Passionate about **Neuroscience**, **Machine Learning**, and **Signal Processing**
+- 🌱 Currently learning **Neuro-Electrophysiology** and **Computational Neuroscience**
+- 🔬 Focused on **EEG Analysis**, **Neural Data Processing**, and **Statistical Methods** in neuroscience research
+- 📫 How to reach me: **sharifbeigymohammad@gmail.com**
 
-- 📫 How to reach me **sharifbeigymohammad@gmail.com**
+## 📌 Featured Projects
+- **Neural_Analysis** - A course in Neuro Electrophysiology, Focused On Spike Statistics and ML Methods
+- **ML_Computational_NeuroScience** - Machine Learning approaches in computational neuroscience
+- **Statistic_in_Research** - Statistical methods for neuroscience research
+- **EEGLAB_ERPLAB** - EEG signal processing and analysis tools
+- **FieldTrip** - Advanced neural data analysis
+- **ANN-AICE403** - Artificial Neural Networks course materials
+- **SVM-AICE4032** - Support Vector Machines learning materials
+- **TLA-CE4032** - Theory of Languages and Machines compiler project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
